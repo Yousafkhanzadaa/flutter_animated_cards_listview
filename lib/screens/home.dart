@@ -1,4 +1,4 @@
-import 'package:animated_cards_listview/colors.dart';
+import 'package:animated_cards_listview/constants/colors.dart';
 import 'package:animated_cards_listview/components/card.dart';
 import 'package:flutter/material.dart';
 

@@ -1,5 +1,5 @@
-import 'package:animated_cards_listview/colors.dart';
-import 'package:animated_cards_listview/home.dart';
+import 'package:animated_cards_listview/constants/colors.dart';
+import 'package:animated_cards_listview/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
