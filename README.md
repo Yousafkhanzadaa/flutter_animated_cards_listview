@@ -1,6 +1,18 @@
 # animated_cards_listview
 
-A new Flutter project.
+Animated Cards
+
+This flutter will help you to understand basic animation. Like Hero, Tween animation.
+how to use AnimationController and many more.
+I hope you get more from this project.
+It's slow device so you can't see the Hero animation/transition affect in preview.
+but it is their.
+
+
+https://user-images.githubusercontent.com/35256849/115954307-a36c3b00-a509-11eb-88ac-6a56c2543655.mp4
+
+
+
 
 ## Getting Started
 
